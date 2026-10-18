@@ -1,4 +1,4 @@
-# hello World, I'm Long
+# Hello World, I'm Long
 
 I'm an Information Systems graduate from San Diego State University (Cum Laude, With Distinction in Information Systems). I'm a Software Development Intern at TRG International in Ho Chi Minh City (Aug 2026 to Nov 2026), where I build data integrations on Infor's cloud ERP. In February 2027 I start a Master of Information Systems at the University of Melbourne.
 
