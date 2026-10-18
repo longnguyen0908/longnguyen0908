@@ -1,16 +1,19 @@
-## Hi there 👋
+# hello World, I'm Long
 
-<!--
-**longnguyen0908/longnguyen0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems graduate from San Diego State University (Cum Laude, With Distinction in Information Systems). I'm a Software Development Intern at TRG International in Ho Chi Minh City (Aug 2026 to Nov 2026), where I build data integrations on Infor's cloud ERP. In February 2027 I start a Master of Information Systems at the University of Melbourne.
 
-Here are some ideas to get you started:
+I like work that sits between data and systems: cleaning and modeling data, building analysis and ML baselines, and moving data between applications through APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- Data and analytics: SQL, Python (pandas, scikit-learn, matplotlib), Excel
+- Integration: C#/.NET, REST APIs, OAuth 2.0, JSON
+- Enterprise systems: SAP ERP, Infor Mongoose, Infor SunSystems Cloud
+
+## Outside work
+
+I'm building an 8-bit roguelite in my spare time.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/calvinlong-us)
